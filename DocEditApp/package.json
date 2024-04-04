@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "@pdftron/webviewer": "^10.8.0",
+    "ckeditor5": "^41.2.1",
+    "summernote": "^0.8.20"
+  }
+}
